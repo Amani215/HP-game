@@ -1,2 +1,2 @@
-#harry potter game
+# harry potter game
 (work in progress)
